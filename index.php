@@ -3,7 +3,7 @@
         <title>SVG</title> 
     </head>
 
-    <body">
+    <body>
         <!-- <svg width="200" height="300" style="border:1px solid black; background-color: #444444;">
             <path d="M 40 150 A 50 50 0 1 1 160 150 Z" fill="#d28c4e" />
             <path d="M 45 160 L 155 160 Z" stroke="#cf734b" stroke-width="2" />
